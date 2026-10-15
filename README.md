@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/L-sharma990">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Web+Developer+%7C+JavaScript+Enthusiast;Integrating+cybersecurity+into+web+development;Building+clean%2C+fast+and+secure+web+apps;Always+learning%2C+always+shipping" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Web+Developer+%7C+JavaScript+Enthusiast;Integrating+cybersecurity+into+modern+web+development;Building+clean%2C+fast+and+secure+web+apps;Always+learning%2C+always+shipping" alt="Typing intro" />
   </a>
 </p>
 
@@ -45,10 +45,31 @@ const lokesh = {
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technologies I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,figma,postman,linux,vercel,netlify&perline=10" alt="Tech stack" />
+<p>
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/ANTIGRAVITY-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+<p>
+  <a href="https://www.netacad.com/">
+    <img src="https://img.shields.io/badge/CISCO%20NETWORKING%20ACADEMY-Cybersecurity%20Essentials-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Academy - Cybersecurity Essentials" />
+  </a>
 </p>
 
 ---
@@ -56,7 +77,7 @@ const lokesh = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=L-sharma990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=L-sharma990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-sharma990&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
@@ -65,21 +86,29 @@ const lokesh = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=L-sharma990&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58a6ff/L-sharma990" alt="Contribution graph" width="100%" />
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Socials
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK-ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://YOUR-PORTFOLIO-SITE.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/L-sharma990"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p>
+  <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" alt="Twitter / X" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="40" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/YOUR-DISCORD-ID"><img src="https://img.icons8.com/color/48/discord-logo.png" width="40" alt="Discord" /></a>
+  <a href="https://www.youtube.com/@YOUR-CHANNEL"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40" alt="YouTube" /></a>
+  <a href="https://YOUR-PORTFOLIO-SITE.com"><img src="https://img.icons8.com/color/48/internet--v1.png" width="40" alt="Portfolio" /></a>
+  <a href="mailto:lokeshsharma5057833@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail" /></a>
+  <a href="https://github.com/L-sharma990"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="40" alt="GitHub" /></a>
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p>
+  <img src="https://hits.sh/github.com/L-sharma990.svg?style=for-the-badge&label=Visitors&color=0e75b6" alt="Visitor count" />
 </p>
 
 ---
