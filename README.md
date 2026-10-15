@@ -1,9 +1,7 @@
 <!-- Put Lokesh.svg in the root of your profile repo (username/username) -->
 <p align="center">
-  <img src="./Lokesh.svg" alt="Lokesh Sharma banner" width="100%" />
+  <img src="./Lokesh.svg" alt="Lokesh Sharma banner" width="100%" height=170 />
 </p>
-
-<h1 align="center">Hi 👋, I'm Lokesh Sharma</h1>
 
 <p align="center">
   <b>Web Developer with a love for JavaScript — building clean, fast and useful things for the web.</b>
