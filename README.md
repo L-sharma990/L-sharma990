@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/L-sharma990">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Web+Developer+%7C+JavaScript+Enthusiast;Integrating+cybersecurity+into+modern+web+development;Building+clean%2C+fast+and+secure+web+apps;Always+learning%2C+always+shipping" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Web+Developer+%7C+JavaScript+Enthusiast;Integrating+cybersecurity+into+web+development;Building+clean%2C+fast+and+secure+web+apps;Always+learning%2C+always+shipping" alt="Typing intro" />
   </a>
 </p>
 
